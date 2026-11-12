@@ -1,4 +1,5 @@
 # ⚡ Sanskar's Local AI Workspace 
+![UI Preview](public/preview.png)
 
 A hyper-optimized, privacy-first local AI workstation tailored for NVIDIA RTX 4050 (6GB VRAM) environments. Built with React and Vite, this custom Ollama frontend bridges the gap between lightweight hardware and heavy-duty AI workflows, featuring simultaneous multi-model execution, live web search retrieval, and a tactile, procedurally animated matte interface.
 
