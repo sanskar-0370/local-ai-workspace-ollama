@@ -43,5 +43,5 @@ Rejects the standard "flat web" look for a raw, tactile hardware aesthetic.
 ### Quick Start
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/argon-local-ai-workspace.git](https://github.com/YourUsername/argon-local-ai-workspace.git)
-   cd argon-local-ai-workspace
+   git clone [git clone https://github.com/sanskar-0370/local-ai-workspace-ollama.git](git clone https://github.com/sanskar-0370/local-ai-workspace-ollama.git)
+   cd local-ai-workspace-ollama
